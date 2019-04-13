@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
+*.~lock*
 anonymize.sh
 Static Action Export.ipynb
